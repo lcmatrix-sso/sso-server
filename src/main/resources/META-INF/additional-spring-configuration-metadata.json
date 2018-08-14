@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "top.lcmatrix.fw.sso.urlEncoding",
+    "type": "java.lang.String",
+    "description": "urlEncoding"
+  },
+  {
+    "name": "top.lcmatrix.fw.sso.loginPage",
+    "type": "java.lang.String",
+    "description": "登录页面访问路径"
+  }
+]}
